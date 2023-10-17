@@ -3,7 +3,11 @@ Curso de Java do básico ao avançado, todos os exercícios e exemplos completos
 
 ## Sobre o Java
 
-O Java é uma linguagem de programação orientada a objetos desenvolvida pela empresa Sun Microsystems na década de 90. Ela evoluiu a partir de humildes origens para impulsionar uma grande parte do mundo digital de hoje, fornecendo a plataforma confiável na qual muitos serviços e aplicativos são construídos. Novos produtos inovadores e serviços digitais projetados para o futuro ainda dependem do Java. Embora a maioria das aplicações Java modernas combine o tempo de execução Java e o aplicativo juntos, ainda existem muitas aplicações e até mesmo alguns sites que não funcionarão a menos que você tenha o Java para desktop instalado.
+O Java é uma linguagem de programação orientada a objetos desenvolvida pela empresa Sun Microsystems na década de 90.
+
+Ela evoluiu a partir de humildes origens para impulsionar uma grande parte do mundo digital de hoje, fornecendo a plataforma confiável na qual muitos serviços e aplicativos são construídos. 
+
+Novos produtos inovadores e serviços digitais projetados para o futuro ainda dependem do Java. Embora a maioria das aplicações Java modernas combine o tempo de execução Java e o aplicativo juntos, ainda existem muitas aplicações e até mesmo alguns sites que não funcionarão a menos que você tenha o Java para desktop instalado.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="140px" />
 
